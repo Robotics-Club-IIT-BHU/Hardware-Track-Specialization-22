@@ -4,8 +4,8 @@
 </h1>
 
 <p align="center" style="background-color: rgb(250,250,250)">
-  <img src="https://user-images.githubusercontent.com/78701055/173235856-dde6fa0f-0d5b-4d53-a35f-ac12aff4b8eb.png" alt="" height="300">
-  <img src="https://user-images.githubusercontent.com/78701055/173236384-d4f5ee38-b371-4ce5-afdd-036fc87ba428.png" alt="" height="300">
+  <img src="https://user-images.githubusercontent.com/78701055/173235856-dde6fa0f-0d5b-4d53-a35f-ac12aff4b8eb.png" alt="" width="58%">
+  <img src="https://user-images.githubusercontent.com/78701055/173236384-d4f5ee38-b371-4ce5-afdd-036fc87ba428.png" alt="" width="41%">
 </p>
 
 ## <img src="https://user-images.githubusercontent.com/78701055/173236524-c7c6df39-3da3-4348-af9c-7c87dbbd774a.png" alt="" width="40"> Introduction
