@@ -9,7 +9,14 @@
   <img src="https://user-images.githubusercontent.com/78701055/173236384-d4f5ee38-b371-4ce5-afdd-036fc87ba428.png" alt="" width="40%">
 </p>
 
-## <img src="https://user-images.githubusercontent.com/78701055/173236524-c7c6df39-3da3-4348-af9c-7c87dbbd774a.png" alt="" width="40"> Introduction
+## <img src="https://user-images.githubusercontent.com/78701055/173236524-c7c6df39-3da3-4348-af9c-7c87dbbd774a.png" alt="" width="40"> Introduction  
+<h3 align="center">    
+    Welcome Aboard Hardware Geeks!!!  
+</h3>  
+  
+  
+Its time to date a Raspberry Pi Zero 2W, establish a connection and then commit yourself to a small hands-on project.  
+Exciting? Well working with hardware always is, so lets get some zeroes up and smoking.
 
 ## <img src="https://user-images.githubusercontent.com/78701055/173236524-c7c6df39-3da3-4348-af9c-7c87dbbd774a.png" alt="" width="40"> What you will learn?
 
