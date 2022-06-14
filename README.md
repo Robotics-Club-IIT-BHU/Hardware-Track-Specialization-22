@@ -11,14 +11,22 @@
 
 ## <img src="https://user-images.githubusercontent.com/78701055/173236524-c7c6df39-3da3-4348-af9c-7c87dbbd774a.png" alt="" width="40"> Introduction  
 <h3 align="center">    
-    Welcome Aboard Hardware Geeks!!!  
+    Welcome aboard Hardware Geeks!!!  
 </h3>  
   
   
 Its time to date a Raspberry Pi Zero 2W, establish a connection and then commit yourself to a small hands-on project.  
 Exciting? Well working with hardware always is, so lets get some zeroes up and smoking.
 
-## <img src="https://user-images.githubusercontent.com/78701055/173236524-c7c6df39-3da3-4348-af9c-7c87dbbd774a.png" alt="" width="40"> What you will learn?
+## <img src="https://user-images.githubusercontent.com/78701055/173236524-c7c6df39-3da3-4348-af9c-7c87dbbd774a.png" alt="" width="40"> What you will learn?  
+
+- You will be setting everything up from scratch  
+- Writing raspi code in C++ and Python to control the GPIO pins 
+- Learn interfacing the camera module and controlling servos and DC motors  
+- Build a small Face Recognition project   
+- Learn Linux networking   
+- If you know ROS then you will also learn installing and using it in your project with the power of which you can make advanced autonomous bots.
+- Build your final project and win the exciting goodies and prizes on offer.
 
 ## <img src="https://user-images.githubusercontent.com/78701055/173236524-c7c6df39-3da3-4348-af9c-7c87dbbd774a.png" alt="" width="40"> Important Links:
 
