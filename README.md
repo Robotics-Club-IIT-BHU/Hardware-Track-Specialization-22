@@ -16,7 +16,7 @@
   
   
 Its time to date a Raspberry Pi Zero 2W, establish a connection and then commit yourself to a small hands-on project.  
-Exciting? Well working with hardware always is, so lets get some zeroes up and smoking.
+Exciting? Well working with hardware always is, so lets get some zeroes up and smoking.  
 
 ## <img src="https://user-images.githubusercontent.com/78701055/173236524-c7c6df39-3da3-4348-af9c-7c87dbbd774a.png" alt="" width="40"> What you will learn?  
 
@@ -27,6 +27,10 @@ Exciting? Well working with hardware always is, so lets get some zeroes up and s
 - Learn Linux networking   
 - If you know ROS then you will also learn installing and using it in your project with the power of which you can make advanced autonomous bots.
 - Build your final project and win the exciting goodies and prizes on offer.  
+
+<p align="center" style="background-color: rgb(250,250,250)">
+<img src="https://github.com/Robotics-Club-IIT-BHU/Hardware-Track-Specialization-22/blob/main/media/285157613_570349117762694_1595176270737766180_n.jpg" alt="">
+</p> 
 
 ## <img src="https://user-images.githubusercontent.com/78701055/173236524-c7c6df39-3da3-4348-af9c-7c87dbbd774a.png" alt="" width="40"> Your Mentors:
 |<img src="https://avatars.githubusercontent.com/u/78701055?v=4" alt="drawing" width="150"/> | <img src="https://avatars.githubusercontent.com/u/88130555?v=4" alt="drawing" width="150"/> | <img src="https://avatars.githubusercontent.com/u/78502324?v=4" alt="drawing" width="150"/> |  <img src="https://avatars.githubusercontent.com/u/78599181?v=4" alt="drawing" width="150"/> | 
