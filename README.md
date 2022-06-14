@@ -35,5 +35,5 @@ Exciting? Well working with hardware always is, so lets get some zeroes up and s
 ## <img src="https://user-images.githubusercontent.com/78701055/173236524-c7c6df39-3da3-4348-af9c-7c87dbbd774a.png" alt="" width="40"> Your Mentors:
 |<img src="https://avatars.githubusercontent.com/u/78701055?v=4" alt="drawing" width="150"/> | <img src="https://avatars.githubusercontent.com/u/88130555?v=4" alt="drawing" width="150"/> | <img src="https://avatars.githubusercontent.com/u/78502324?v=4" alt="drawing" width="150"/> |  <img src="https://avatars.githubusercontent.com/u/78599181?v=4" alt="drawing" width="150"/> | 
 |--|--|--|--|
-|[Ankur Agarwal](https://github.com/Ankur-Agrawal-ece20) |[Sandeepan Ghosh](https://github.com/san2130) |[Harsh Mahesheka](https://github.com/harshmahesheka) |[Raghavansh](https://github.com/raghavansh) |
+|[Ankur Agrawal](https://github.com/Ankur-Agrawal-ece20) |[Sandeepan Ghosh](https://github.com/san2130) |[Harsh Mahesheka](https://github.com/harshmahesheka) |[Raghavansh](https://github.com/raghavansh) |
 
