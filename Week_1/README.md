@@ -19,7 +19,7 @@ Now its time to brush up on your Linux skills since the Raspbian OS is totally b
 Check out this meticulously compiled list of [essential Linux commands](https://github.com/Robotics-Club-IIT-BHU/ROS-Specialization-22/blob/main/week1/LinuxCommands.md)  
 <br>
 <br>  
-### SSH(Secure Shell)  
+### SSH (Secure Shell)  
 Ever heard this term before? Think of it as a tool which allows you to connect remotely to any other device using only its ip address/hostname. 
 [Check out this video for a basic understanding](https://www.youtube.com/watch?v=rfYZR6opTVg)  
   
@@ -28,8 +28,8 @@ SSH works on windows too in a similar fashion although it is very very much reco
 <br>
 <br>
 Now you know everything you need to start setting up your Pi. Hopefully by now it has arrived and best of luck for your first meeting.  
-Click on the image below  
-<br>
+<br>  
+<h3 align="center">Click on the image below</h3>
 <p align="center">
   <a href="./Setup.MD"><img src="https://github.com/Robotics-Club-IIT-BHU/Hardware-Track-Specialization-22/blob/main/media/keep-calm-cuz-i-have-arrived.webp" width="30%">
     </p>
