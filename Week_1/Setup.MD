@@ -48,4 +48,11 @@ Now type in the password and you are in !!!
 <p align="center" style="background-color: rgb(250,250,250)">
   <img src="https://github.com/san2130/Hardware-Track-Specialization-22/blob/main/Week_1/media/Screenshot%20from%202022-06-29%2000-32-43.png" alt="" width="50%">
 </p>
-<p align="center">Congrats you and your date can communicate freely now, go ahead and explore :) </p>
+<p align="center">Congrats you and your date can communicate freely now, go ahead and explore :) </p>  
+
+## <img src="https://user-images.githubusercontent.com/78701055/173236524-c7c6df39-3da3-4348-af9c-7c87dbbd774a.png" alt="" width="40">Fun Tasks  
+- Find out her address (IP address plz) (Using ifconfig and nmap)
+- Try connecting to her using her IP address (ssh pi@ip_addr) (This is how u should be doing it from now on since remembering hostnames for multiple devices is cumbersome)
+- Share some of your property (files) using SCP  
+- Give her a permanent address (Static IP Address through your Router) (You won't like to query her new address every time your router is rebooted)
+- Create an alias in your bashrc to connect to her with a shorter command
