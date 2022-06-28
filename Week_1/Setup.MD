@@ -5,7 +5,7 @@
 - Run the app and choose OS as Raspberry Pi OS 32 bit and storage as your SD card  
 <br>  
 <p align="center" style="background-color: rgb(250,250,250)">
-  <img src="https://github.com/san2130/Hardware-Track-Specialization-22/blob/main/Week_1/media/Screenshot%20from%202022-06-28%2023-11-41.png" alt="" width="57%">
+  <img src="https://github.com/san2130/Hardware-Track-Specialization-22/blob/main/Week_1/media/Screenshot%20from%202022-06-28%2023-11-41.png" alt="" width="50%">
 </p>  
 <br>  
 <br>  
@@ -13,12 +13,12 @@
 - Now click on the settings option and do as shown
 <br>  
 <p align="center" style="background-color: rgb(250,250,250)">
-  <img src="https://github.com/san2130/Hardware-Track-Specialization-22/blob/main/Week_1/media/Screenshot%20from%202022-06-28%2023-12-04.png" alt="" width="57%">
+  <img src="https://github.com/san2130/Hardware-Track-Specialization-22/blob/main/Week_1/media/Screenshot%20from%202022-06-28%2023-12-04.png" alt="" width="50%">
 </p>  
 <br>  
 <br>  
 <p align="center" style="background-color: rgb(250,250,250)">
-  <img src="https://github.com/san2130/Hardware-Track-Specialization-22/blob/main/Week_1/media/Screenshot%20from%202022-06-28%2023-14-06.png" alt="" width="57%">
+  <img src="https://github.com/san2130/Hardware-Track-Specialization-22/blob/main/Week_1/media/Screenshot%20from%202022-06-28%2023-14-06.png" alt="" width="50%">
 </p>  
 <br>  
 <br>  
