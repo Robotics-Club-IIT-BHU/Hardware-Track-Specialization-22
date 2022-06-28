@@ -28,8 +28,7 @@
 <hr>  
 
 Now just plug in the SD Card into the Raspi SD Card slot, and connect the USB cable to the **USB** Port and not the port marked PWR. If you have a mini HDMI cable connect it as well if you want.  
-<br>  
-<br>  
+<br>   
 <p align="center" style="background-color: rgb(250,250,250)">
   <img src="https://github.com/san2130/Hardware-Track-Specialization-22/blob/main/Week_1/media/Raspberry-Pi-Zero-Overview.jpg" alt="" width="50%">
 </p>  
