@@ -25,7 +25,8 @@
 
 - That's it all done, now simply click on write to format your card and install everything (**All your previous data on the SD card will get erased**)  
 <br>  
-<hr>
+<hr>  
+
 Now just plug in the SD Card into the Raspi SD Card slot, and connect the USB cable to the **USB** Port and not the port marked PWR. If you have a mini HDMI cable connect it as well if you want.  
 <br>  
 <br>  
