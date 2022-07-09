@@ -1,8 +1,8 @@
 # Welcome to Week 2 
 Hello folks, so how is your date going on? We hope that you told your partner how much you like it. 
-<br>
-Whattt haven't you done so? 
-<br>
+<br><br>
+<img src="media/meme.jpg" alt=""/>
+<br><br>
 <b>We know you are too shy to speak, so why don't you tell it in sign language?</b>
 
 ## Prerequisites
