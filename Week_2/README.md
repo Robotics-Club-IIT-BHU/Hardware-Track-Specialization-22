@@ -10,7 +10,6 @@ Hello folks, so how is your date going on? We hope that you told your partner ho
 
 ## Prerequisites
 - **Python:** We hope that all of you are familiar with python, if not do checkout this <a href="https://www.youtube.com/watch?v=rfscVS0vtbw">video</a>.
-13
 - **Camera Integration:** Next step is to do camera integration with raspi, here is the &nbsp; <a href="https://www.youtube.com/watch?v=VzYGDq0D1mw">tutorial</a> &nbsp; and &nbsp; <a href="https://pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/">videocapture</a>
 
 ## Your Tasks
@@ -18,7 +17,7 @@ Hello folks, so how is your date going on? We hope that you told your partner ho
   <summary><b>Task1</b></summary>
   <p>
     <br>
-    First part of a proposal is to make a good eye contact with your date. So, this task is to create a face detector for your raspi. 
+    First part of a proposal is to make a good eye contact with your date. So, this task is to create a face detector for your raspi which counts the number of faces. <b>(Hint: use Dlib)</b> 
     <br>
     <p align="center"><img src="media/counter.jpg" alt="" ></p>
     <br>
@@ -35,7 +34,7 @@ The code for the same is given <a href="host.zip">here</a>. But it is for genera
 Write a python code on your laptop to access this image and decode your message. 
 <br><br>
 Show three different hand signs and map them to words <b>I</b>, <b>LIKE</b> and <b>YOU</b> , ofcourse in this given order. <br>
-Your message will begin with completely stretched hand position (:raised_hand_with_fingers_splayed: sign) and end with it only.
+Your message will begin with completely stretched hand position (:raised_hand_with_fingers_splayed: sign) and end with it only. <b>(Hint: use mediapipe)</b> 
 
 <p>
   <img src="media/1.png" alt="" width="45%"/>
