@@ -29,7 +29,7 @@ Hello folks, so how is your date going on? We hope that you told your partner ho
     <p>
     <br>
 Now, for the main part of proposal, all you need to do is to take input from the camera module by showing it hand signs and broadcast on your pi's ip server using Python Flask.
-The code for the same is given <a href="host.zip">here</a>. But it is for general OpenCV, you may need to modify its <b>video capture</b> part.
+The code for the same is given <a href="flask">here</a>. But it is for general OpenCV, you may need to modify its <b>video capture</b> part.
 <br><br>
         Write a python code on your <b>laptop</b> to access this image from the url and decode your message. 
 <br><br>
