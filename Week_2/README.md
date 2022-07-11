@@ -47,8 +47,8 @@ All signs between them will be your message and again its obvious that you canno
  </details>
 
 ## Your submissions
-- **For Task 1**, you need to record a short video inside your raspi, detecting all the visible faces as shown in the Task 1 problem statement and also display the current total count on the video.
-- **For Task 2**, you need to record a short video inside your laptop that starts and end with :raised_hand_with_fingers_splayed: sign. Your current meaning of sign should be visible on video as you can see in images of the Task 2 problem statement.
+- **For Task 1**, you need to record a short video inside your **raspi** using opencv videowriter, detecting all the visible faces as shown in the Task 1 problem statement and also display the current total count on the video.
+- **For Task 2**, you need to record a short video inside your **laptop** that starts and end with :raised_hand_with_fingers_splayed: sign. Your current meaning of sign should be visible on video as you can see in images of the Task 2 problem statement.
 <br> <br>
 Try to avoid recording high resolution and long videos in raspi to prevent memory card from getting full. <br>
 You will recieve submission link at the end of this week. Till then...
