@@ -1,0 +1,35 @@
+## Installation
+
+We recommend you to get familiar with python code to access raspberry pie camera before moving ahead. 
+
+### STEP 1: Download host.zip file manually or run this command:
+```bash
+git fetch git://github.com/Robotics-Club-IIT-BHU/Hardware-Track-Specialization-22/Week_2/flask/host.zip
+```
+
+
+### STEP 2: Use SCP Command to Transfer Files to Raspberry Pie
+```bash
+scp host.zip [user@]DEST_HOST:]/[path to directory]
+```
+
+
+### STEP 3: Unzip the zip file.
+```bash
+unzip host.zip
+```
+
+### STEP 3: Move inside the directory.
+```bash
+cd host
+```
+
+### STEP 5: Install the requirements.
+```bash
+pip install -r requirements.txt
+```
+
+### STEP 6: Edit the host.py file and run it.
+```bash
+python host.py
+```
