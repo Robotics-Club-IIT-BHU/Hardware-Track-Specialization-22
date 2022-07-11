@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ### STEP 6: Change the host name to the pi's ip address and cv2.VideoCapture() with raspi camera api.  
 
-### STEP 7: Edit the host.py file and run it.
+### STEP 7: Run host.py inside your virtual environment after installing opencv and numpy(1.9.5) only.
 ```bash
 python host.py
 ```
