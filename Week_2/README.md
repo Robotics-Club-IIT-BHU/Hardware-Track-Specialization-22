@@ -17,21 +17,21 @@ Hello folks, so how is your date going on? We hope that you told your partner ho
   <summary><b>Task1</b></summary>
   <p>
     <br>
-    First part of a proposal is to make a good eye contact with your date. So, this task is to create a face detector for your raspi which counts the number of faces. <b>(Hint: use Dlib)</b> 
+    First part of a proposal is to make a good eye contact with your date. So, this task is to create a face detector for your raspi which counts the number of faces. This code will run entirely on the <b>raspi.</b>  <b>(Hint: use Dlib)</b> 
     <br>
     <p align="center"><img src="media/counter.jpg" alt="" ></p>
     <br>
-    <b>NOTE: You don't have to recognise the face, just detect all and count them.</b>
+    <b>NOTE: You don't have to recognise the face, just detect all, count them and display the count on the video.</b>
   </p>
  </details>
 <details>
   <summary><b>Task2</b></summary>
     <p>
     <br>
-Now, for the main part of proposal, all you need to do is to take input from the camera module by showing it hand signs and broadcast on your local server using flask.
+Now, for the main part of proposal, all you need to do is to take input from the camera module by showing it hand signs and broadcast on your pi's ip server using Python Flask.
 The code for the same is given <a href="host.zip">here</a>. But it is for general OpenCV, you may need to modify its <b>video capture</b> part.
 <br><br>
-Write a python code on your laptop to access this image and decode your message. 
+Write a python code on your **laptop** to access this image from the url and decode your message. 
 <br><br>
 Show three different hand signs and map them to words <b>I</b>, <b>LIKE</b> and <b>YOU</b> , ofcourse in this given order. <br>
 Your message will begin with completely stretched hand position (:raised_hand_with_fingers_splayed: sign) and end with it only. <b>(Hint: use mediapipe)</b> 
