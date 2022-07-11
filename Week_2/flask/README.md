@@ -1,6 +1,6 @@
 ## Installation
 
-We recommend you to get familiar with python code to access raspberry pie camera before moving ahead. 
+We recommend you to get familiar with python code to access raspberry pi camera before moving ahead. 
 
 ### STEP 1: Download host.zip file manually or run this command:
 ```bash
@@ -8,7 +8,7 @@ git fetch git://github.com/Robotics-Club-IIT-BHU/Hardware-Track-Specialization-2
 ```
 
 
-### STEP 2: Use SCP Command to Transfer Files to Raspberry Pie
+### STEP 2: Use SCP Command to Transfer Files to Raspberry Pi
 ```bash
 scp host.zip [user@]DEST_HOST:]/[path to directory]
 ```
@@ -31,7 +31,7 @@ pip install numpy==1.19.5
 pip install opencv-python  
 ```
 
-### STEP 6: Change the host name to the pi's ip address and cv2.VideoCapture() with raspi camera api.  
+### STEP 6: Change the host name to the Pi's ip address and cv2.VideoCapture() with raspi camera api.  
 
 ### STEP 7: Run host.py inside your virtual environment
 ```bash
