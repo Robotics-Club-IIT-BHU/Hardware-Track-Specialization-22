@@ -34,7 +34,7 @@ pip install opencv-python
 
 ### STEP 6: Change the host name to the Pi's ip address and cv2.VideoCapture() with raspi camera api.  
 
-### STEP 7: Run host.py inside 
+### STEP 7: Run host.py inside venv
 ```bash
 python host.py
 ```
