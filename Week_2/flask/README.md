@@ -29,7 +29,10 @@ cd host
 pip install -r requirements.txt
 ```
 
-### STEP 6: Edit the host.py file and run it.
+### STEP 6: Change the host name to the pi's ip address and cv2.VideoCapture() with raspi camera api.  
+
+### STEP 7: Edit the host.py file and run it.
 ```bash
 python host.py
 ```
+
