@@ -6,11 +6,12 @@ Hello folks, so how is your date going on? We hope that you told your partner ho
 <br><br>
 <p align="center"><img src="media/meme.jpg" alt=""/></p>
 <br><br>
-<b>We know you are too shy to speak, so why don't you propose it in sign language?</b>
+<b>We know you are too shy to speak, so why don't you propose in sign language?</b>
 
 ## Prerequisites
 - **Python:** We hope that all of you are familiar with python, if not do checkout this <a href="https://www.youtube.com/watch?v=rfscVS0vtbw">video</a>.
-- **Camera Integration:** Next step is to do camera integration with raspi, here is the <a href="https://www.youtube.com/watch?v=VzYGDq0D1mw">tutorial</a>.
+13
+- **Camera Integration:** Next step is to do camera integration with raspi, here is the &nbsp; <a href="https://www.youtube.com/watch?v=VzYGDq0D1mw">tutorial</a> &nbsp; and &nbsp; <a href="https://pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/">videocapture</a>
 
 ## Your Tasks
 <details>
