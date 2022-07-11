@@ -19,9 +19,10 @@ scp host.zip [user@]DEST_HOST:]/[path to directory]
 unzip host.zip
 ```
 
-### STEP 3: Move inside the directory.
+### STEP 4: Create a virtual environment.
 ```bash
-cd host
+python3 -m venv venv
+source venv/bin/activate
 ```
 
 ### STEP 5: Install the requirements.
@@ -33,7 +34,7 @@ pip install opencv-python
 
 ### STEP 6: Change the host name to the Pi's ip address and cv2.VideoCapture() with raspi camera api.  
 
-### STEP 7: Run host.py inside your virtual environment
+### STEP 7: Run host.py inside 
 ```bash
 python host.py
 ```
