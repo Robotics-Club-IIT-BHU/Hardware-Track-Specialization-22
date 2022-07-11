@@ -31,7 +31,7 @@ Hello folks, so how is your date going on? We hope that you told your partner ho
 Now, for the main part of proposal, all you need to do is to take input from the camera module by showing it hand signs and broadcast on your pi's ip server using Python Flask.
 The code for the same is given <a href="host.zip">here</a>. But it is for general OpenCV, you may need to modify its <b>video capture</b> part.
 <br><br>
-Write a python code on your **laptop** to access this image from the url and decode your message. 
+        Write a python code on your <b>laptop</b> to access this image from the url and decode your message. 
 <br><br>
 Show three different hand signs and map them to words <b>I</b>, <b>LIKE</b> and <b>YOU</b> , ofcourse in this given order. <br>
 Your message will begin with completely stretched hand position (:raised_hand_with_fingers_splayed: sign) and end with it only. <b>(Hint: use mediapipe)</b> 
