@@ -1,5 +1,7 @@
-<img src="https://readme-typing-svg.herokuapp.com?&font=Roboto&color=14b4f5&size=20&center=true&vCenter=true&height=20&lines=Welcome+to+Week+2;" width="100%"/>
-<hr>
+<h1 align="center"> 
+    
+    Welcome To Week 2
+</h1>
 Hello folks, so how is your date going on? We hope that you told your partner how much you like it. 
 <br><br>
 <p align="center"><img src="media/meme.jpg" alt=""/></p>
