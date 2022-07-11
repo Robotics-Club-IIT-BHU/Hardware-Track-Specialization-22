@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?&font=Roboto&color=0000FF&size=20&center=true&vCenter=true&height=20&lines=Welcome+to+Week+2;" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?&font=Roboto&color=14b4f5&size=20&center=true&vCenter=true&height=20&lines=Welcome+to+Week+2;" width="100%"/>
 <hr>
 Hello folks, so how is your date going on? We hope that you told your partner how much you like it. 
 <br><br>
