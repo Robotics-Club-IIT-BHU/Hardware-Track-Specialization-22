@@ -34,7 +34,7 @@ The code for the same is given <a href="flask">here</a>. But it is for general O
         Write a python code on your <b>laptop</b> to access this image from the url and decode your message. 
 <br><br>
 Show three different hand signs and map them to words <b>I</b>, <b>LIKE</b> and <b>YOU</b> , ofcourse in this given order. <br>
-Your message will begin with completely stretched hand position (:raised_hand_with_fingers_splayed: sign) and end with it only. <b>(Hint: use mediapipe)</b> 
+Your message will begin with completely stretchhed hand position (:raised_hand_with_fingers_splayed: sign) and end with it only. <b>(Hint: use mediapipe)</b> 
 
 <p>
   <img src="media/1.png" alt="" width="45%"/>
@@ -46,7 +46,7 @@ All signs between them will be your message and again its obvious that you canno
   </p>
  </details>
 
-## Your submissions
+## Your submissions [(Link)](https://forms.gle/RoS2eYTEAx3sfwiM6)
 - **For Task 1**, you need to record a short video inside your **raspi** using opencv videowriter, detecting all the visible faces as shown in the Task 1 problem statement and also display the current total count on the video.
 - **For Task 2**, you need to record a short video inside your **laptop** that starts and end with :raised_hand_with_fingers_splayed: sign. Your current meaning of sign should be visible on video as you can see in images of the Task 2 problem statement.
 <br> <br>
