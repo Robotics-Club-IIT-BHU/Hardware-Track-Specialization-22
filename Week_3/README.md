@@ -2,7 +2,7 @@
     
     Welcome To Week 3
 </h1>
-Hello folks, we hope that by this time you are able to propose your date. So, now its time for celebrations.
+Hello folks, we hope that by this time you are able to propose your date. So, now, its time for celebrations.
 <br>
 <b>First of all cheers :clinking_glasses: for that!!!</b>
 <br><br>
