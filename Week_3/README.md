@@ -12,7 +12,9 @@ Hello folks, we hope that by this time you are able to propose your date. So, no
 
 ## Tell us about your plan !
   <p>
-    First of tell us about your idea in brief, so that we can guide you. The questions you need to answer are:
+    As you know in this week you have to create your own projects. 
+    But before that tell us about your idea in brief, so that we can guide you. 
+    <br> The questions you need to answer are:
     <ul>
       <li> What are you making? </li>
       <li> Components you are using? </li>
