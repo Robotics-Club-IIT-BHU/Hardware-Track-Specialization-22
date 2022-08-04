@@ -2,13 +2,13 @@
     
     Welcome To Week 3
 </h1>
-Hello folks, we hope that by this time you are able to propose your date. So, now, its time for celebrations.
+Hello folks, we hope that by this time you have proposed to your date. So, now, its time for celebrations.
 <br>
 <b>First of all cheers :clinking_glasses: for that!!!</b>
 <br><br>
 <p align="center"><img src="https://user-images.githubusercontent.com/78701055/182799505-a032d492-04b6-45c3-b38a-f20720918a73.gif" alt=""/></p>
 <br><br>
-<b>So the point is, we are very keen to listen your proposal :slightly_smiling_face:</b>
+<b>So the point is, we are very keen to listen to your proposal :slightly_smiling_face:</b>
 
 ## Tell us about your plan !
   <p>
